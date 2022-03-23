@@ -1,7 +1,7 @@
 # PacMen-On-Fly
 Description: Week 07: PacMen Animation Exercise
 ___
-### **Description**: Week 07: Working With The DOM to Add Animation to Maps
+### **Description**: Week 07: Working With The DOM to Add Animation to the web page
 <p>Demonstrate web application using JavaScript, HTML, CSS, and create animation:<p>
 <ul>
   <li>HTML: div, img element</li>
