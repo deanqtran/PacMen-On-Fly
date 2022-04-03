@@ -11,6 +11,8 @@
       <li>manipulating the <b>img</b> tag style attributes</li>
       <li>using array</li>
       <li>Calling Timer: setTimeout()</li>
+      <li>Applying recursive function</li>
+    </ul>
   </li>
 </ul>
 
